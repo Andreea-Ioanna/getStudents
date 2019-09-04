@@ -1,4 +1,4 @@
-const studentsURL = "http://petlatkea.dk/2019/students1991.json";
+const studentsURL = "https://petlatkea.dk/2019/students1991.json";
 
 const template = document.querySelector("#myTemp").content;
 const parent = document.querySelector("main");
